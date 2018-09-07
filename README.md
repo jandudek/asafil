@@ -4,7 +4,7 @@ Download into a directory, go to chrome://extensions/ , turn on "Developer mode"
 
 Then open an Asana board and use the extension to filter out columns / cards from the board.
 
-h1. FAQ
+# FAQ
 Q: Instead of avatars and abbreviations, I want to see full names in the users filter section.
 A: Unfortunately the full name info is not available in the Asana board DOM (at least I didn't find it there). Hence the extension uses just what's available there: avatar for users with a configured avatar pic and the abbreviation for the rest of them.
 
